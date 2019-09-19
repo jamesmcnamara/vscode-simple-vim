@@ -2,12 +2,12 @@
     "name": "simple-vim",
     "displayName": "Simple Vim",
     "description": "Vim extension for VSCode",
-    "version": "0.0.4",
+    "version": "0.0.1",
     "license": "MIT",
-    "publisher": "jpotterm",
+    "publisher": "jamesmcnamara",
     "repository": {
         "type": "git",
-        "url": "https://github.com/jpotterm/vscode-simple-vim.git"
+        "url": "https://github.com/jamesmcnamara/vscode-simple-vim.git"
     },
     "engines": {
         "vscode": "^1.22.2"
